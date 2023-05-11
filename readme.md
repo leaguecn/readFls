@@ -3,7 +3,7 @@
 ## 环境配置
 
 + 安装FARO SDK文件，版本号为：1.1.905.1
-双击**[FARO_LS_SDK_2021.5.1.9021_Setup.exe]**(https://downloads.faro.com/index.php/s/9i8L7HwCWNfSyyF)文件进行安装
+双击[**FARO_LS_SDK_2021.5.1.9021_Setup.exe**](https://downloads.faro.com/index.php/s/9i8L7HwCWNfSyyF)文件进行安装
 + 注册SDK dll文件
 双击**注册（以管理员身份运行）.bat**即可
 
