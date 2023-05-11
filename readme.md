@@ -10,7 +10,7 @@
 ## 转换示例
 
 ```bat
-readFls *.fls *.laz/*.las -10 10 -10 10
+readFls.exe *.fls *.laz/*.las -10 10 -10 10
 
 ```
 
